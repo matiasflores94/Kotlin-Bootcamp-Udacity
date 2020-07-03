@@ -1,3 +1,4 @@
+import java.lang.Math.random
 import java.util.*
 /* -----------DAY OF WEEKK----------
 fun main(args: Array<String>){
@@ -41,7 +42,7 @@ fun randomDay() : String{
 */
 
 //-----------Fortuuunaaa --------------
-fun main (arg : Array<String>){
+/*fun main (arg : Array<String>){
     var fortune : String
     var i = 0
     do {
@@ -74,7 +75,7 @@ fun getFortuneCookie(birthday : Int) : String {
     }
     return fortunes[fortuneIndex]
     }
-
+*/
 
 /*--------PescadPPPOOSS --------------
 fun main(arg : Array<String>){
